@@ -1,7 +1,10 @@
 # House Price Prediction Project
 
+🧐 _While our model's performance in terms of MAE, MSE, and R²-Score was not optimal due to our limited experience in model building at the time, the project demonstrated a strong grasp of the end-to-end predictive modeling process. From data collection and preprocessing to model deployment, we applied rigorous methodologies and best practices. This experience not only reinforced our technical foundation but also showcased our ability to approach complex problems systematically, laying the groundwork for future advancements in model optimization._
+
+# About this Project Requirement
 **Objective:**
-In this final project, students will demonstrate their end-to-end skills in data scraping, data
+In this project, performer will demonstrate their end-to-end skills in data scraping, data
 preprocessing, feature engineering, modeling, and evaluation. The task involves predicting
 house prices using machine learning models. The following requirements outline the project
 details.
@@ -34,7 +37,7 @@ Forest, and Gradient Boosting among others.
 identify the best one for the problem.
 
 **Implementation and Reporting:**
-1. Students are not required to implement the algorithms from scratch, but it is
+1. You are not required to implement the algorithms from scratch, but it is
 recommended if possible.
 2. Using Jupyter Notebook for implementation and report generation.
 3. The report can be written in both Vietnamese and English.
