@@ -1,5 +1,15 @@
 # House Price Prediction Project
 
+|Model	| MSE |	MAE |	R2 |
+|---|---|---|---|
+|random_forest|	47.043665|	4.073827|	0.241820|
+|catboost|	47.136262|	4.072531|	0.240328|
+|xgboost|	47.483248|	4.087922|	0.234736|
+|linear	| 49.116138	| 4.225337|0.208419|
+|ridge|	49.116276|	4.225343|	0.208417|
+|lasso|	49.156077|	4.226551|	0.207775|
+|decision_tree|	76.854116	|4.858190	|-0.238620|
+
 🧐 _While our model's performance in terms of MAE, MSE, and R²-Score was not optimal due to our limited experience in model building at the time, the project demonstrated a strong grasp of the end-to-end predictive modeling process. From data collection and preprocessing to model deployment, we applied rigorous methodologies and best practices. This experience not only reinforced our technical foundation but also showcased our ability to approach complex problems systematically, laying the groundwork for future advancements in model optimization._
 
 # About this Project Requirement
